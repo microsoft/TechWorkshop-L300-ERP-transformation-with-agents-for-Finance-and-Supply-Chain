@@ -1,10 +1,10 @@
-title: TechExcel Secure and Govern M365 Copilot and agents
+title: TechExcel ERP Transformation with Agents for Finance and Supply Chain
 description: 
 theme: just-the-docs
 
 aux_links:
-  "TechExcel Secure and Govern M365 Copilot and agents": 
-    - "https://github.com/microsoft/TechExcel-Secure-and-Govern-M365-Copilot-and-Agents-Sims"
+  "TechExcel: ERP Transformation with Agents for Finance and Supply Chain": 
+    - "https://github.com/microsoft/TechWorkshop-L300-ERP-transformation-with-agents-for-Finance-and-Supply-Chain"
 
 callouts_level: quiet # or loud
 callouts:
